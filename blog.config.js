@@ -206,14 +206,14 @@ const BLOG = {
     {
       name: 'Who do u love？',
       artist: 'David Tao',
-      url: 'https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i?si=2W7YU1_8TpOCQdDdgyGQjA',
+      url: 'https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i?si=1hoY9Mz7QFC4PSkTi0SRxg.mp3',
       cover:
             'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: 'Do I',
+      artist: 'David Tao',
+      url: 'https://music.163.com/song?id=150671&userid=249724865.mp3',
       cover:
             'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
